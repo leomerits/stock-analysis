@@ -23,5 +23,5 @@
 
 2. How do these pros and cons apply to refactoring the original VBA script?
 - On the pro side, it realy helped make the code a lot more readable than the original, a lot clearer and more organized, but above all, it was a lot faster to run as we can see on the images attacvhed.
--On the Cons side, becasue this was not a very long code, it didn't take a lot of time, and of course it didn't cost any money.
+- On the Cons side, becasue this was not a very long code, it didn't take a lot of time, and of course it didn't cost any money.
 
