@@ -6,9 +6,9 @@
 The purpose of this analysis is to help Steve to be able to at a click of a button, he can analyze the entire dataset, Also to make the codes less cumbersome by improving its readability and above all, the time it takes to execute.
 
 ##**Results**
-Looking at the final results of the analysis, we can see that the stocks did a lot better in the year 2017 than it did in the year 2018 as was portrayed by the images attached.(![All Stocks 2018 Refactored](https://user-images.githubusercontent.com/34757498/136099170-bb64e255-c6b4-4280-83d9-09d129072192.png)
+Looking at the final results of the analysis, we can see that the stocks did a lot better in the year 2017 than it did in the year 2018 as was portrayed by the images attached.(![All Stocks 2018 Refactored](https://user-images.githubusercontent.com/34757498/136099170-bb64e255-c6b4-4280-83d9-09d129072192.png, ![All Stocks 2017 Refactored](https://user-images.githubusercontent.com/34757498/136099833-2930bacb-f53b-4b3e-b60c-cbe28d111341.png)
 
- With the **"Run Analysis fo All Stocks** button we created for Steve, he will be able click on the button and have all the results not only displayed for him in one readable concised page, but also in a shorter amount of time as was indicated by the refactored analysis code and thes imaged (![All Stocks 2018 Refactored](https://user-images.githubusercontent.com/34757498/136099434-7d1c5ff8-adce-44a2-8f32-2d41dc96fee0.png).
+ With the **"Run Analysis fo All Stocks** button we created for Steve, he will be able click on the button and have all the results not only displayed for him in one readable concised page, but also in a shorter amount of time as was indicated by the refactored analysis code and thes imaged (![All Stocks 2018 Refactored](https://user-images.githubusercontent.com/34757498/136099434-7d1c5ff8-adce-44a2-8f32-2d41dc96fee0.png, ![All Stocks 2017 Refactored](https://user-images.githubusercontent.com/34757498/136099849-a9a751d9-a1ce-48cf-8394-51a512025a00.png).
 
 ##**Summary**
 
