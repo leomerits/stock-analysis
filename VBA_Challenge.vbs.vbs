@@ -42,7 +42,7 @@ Sub AllStocksAnalysisRefactored()
     Ticker = "0" 
 
     '1b) Create three output arrays 
-    Dim tickerVolumes As Long
+    Dim totalVolume As Long
     Dim startingPrice As Single
     Dim endPrice As Single
     
@@ -50,7 +50,7 @@ Sub AllStocksAnalysisRefactored()
     ''2a) Create a for loop to initialize the tickerVolumes to zero. 
     For i = 0 To 11
     ticker = tickers(i)
-    tickerVolumes = 0
+    totalVolume = 0
         
     ''2b) Loop over all the rows in the spreadsheet. 
     For j = 2 To RowCount
@@ -58,7 +58,7 @@ Sub AllStocksAnalysisRefactored()
         '3a) Increase volume for current ticker
         If Cells(j, 1).Value = ticker Then
 
-            tickerVolumes = tickerVolumes + Cells(j, 8).Value
+            totalVolume = totalVolume + Cells(j, 8).Value
 
         End If
             
@@ -88,7 +88,7 @@ Sub AllStocksAnalysisRefactored()
     
         Worksheets("All Stocks Analysis").Activate
         Cells(4 + 1, 1).Value = ticker
-        Cells(4 + 1, 2).Value = tickerVolumes
+        Cells(4 + 1, 2).Value = totalVolume
         Cells(4 + 1, 3).Value = sndingPrice / startingPrice - 1
         
         
